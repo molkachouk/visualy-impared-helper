@@ -1,0 +1,5 @@
+piper-tts
+pygame-ce
+opencv-python
+numpy 
+yolo11s
