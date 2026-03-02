@@ -1,0 +1,4 @@
+piper-tts
+pygame-ce
+opencv-python
+numpy 
